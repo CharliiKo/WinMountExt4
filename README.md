@@ -10,4 +10,6 @@ for default the `\\wsl.localhost\Ubuntu\mnt\wsl\ext4_disk`.
 
 Enjoy yourself!🦖
 
-TODO: add a easy-to-use GUI based on Qt.
+TODO: 
+1. Add an easy-to-use GUI based on Qt.
+2. Startup when user login function.
