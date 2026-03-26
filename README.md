@@ -1,7 +1,7 @@
 # WinMountExt4
 
 
-![WinMountExt4](D:\repositories\OnlineCode\WinMountExt4\images\WinMountExt4.png)
+![WinMountExt4](.\images\WinMountExt4.png)
 
 A little tool run on windows 10/11 to mount your ext4 disk via WSL2. 
 
@@ -28,11 +28,11 @@ for default the `\\wsl.localhost\Ubuntu\mnt\wsl\ext4_disk`.
 - One-click mount/unmount.
 - Support for "Startup when user login" (Optional in settings).
 
-![beautiful_gui](images\beautiful_gui.png)
+![beautiful_gui](.\images\beautiful_gui.png)
 
 - Native Multi Language Support:  **Chinese Simplified, Chinese Traditional, English **.
 
-![multi_language](images\multi_language.png)
+![multi_language](.\images\multi_language.png)
 
 ## After All
 
