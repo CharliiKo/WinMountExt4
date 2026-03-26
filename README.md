@@ -34,7 +34,7 @@ for default the `\\wsl.localhost\Ubuntu\mnt\wsl\ext4_disk`.
 
 ![beautiful_gui](./images/beautiful_gui.png)
 
-- Native Multi Language Support:  **Chinese Simplified, Chinese Traditional, English **.
+- Native Multi Language Support:  **Chinese Simplified, Chinese Traditional, English**.
 
 ![multi_language](./images/multi_language.png)
 
