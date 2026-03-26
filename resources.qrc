@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>translations/winmountext4_zh_CN.qm</file>
+        <file>translations/winmountext4_zh_TW.qm</file>
+        <file>assets/logo.ico</file>
+    </qresource>
+</RCC>
