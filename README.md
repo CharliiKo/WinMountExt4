@@ -20,8 +20,9 @@ Now comes with a native C++ Qt-based GUI for easier operation.
 
 ## Batch Version
 1. Install WSL2.
-2. Run with powershell(**Administrator**) `./MountExt4.bat` to mount your disk.
-3. Run with powershell(**Administrator**) `./UnmountExt4.bat` to unmount your disk.
+2. You can find the batchfiles in `scripts/`
+3. Run with powershell(**Administrator**) `./MountExt4.bat` to mount your disk.
+4. Run with powershell(**Administrator**) `./UnmountExt4.bat` to unmount your disk.
 
 You are allowed to access the mounted disk in **windows explorer** directory.
 for default the `\\wsl.localhost\Ubuntu\mnt\wsl\ext4_disk`.
