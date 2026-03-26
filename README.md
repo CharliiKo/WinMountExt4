@@ -3,17 +3,20 @@
 
 ![WinMountExt4](./images/WinMountExt4.png)
 
-A little tool run on windows 10/11 to mount your ext4 disk via WSL2. 
-
+*A little tool run on windows 10/11 to mount your ext4 disk via WSL2.*<br>
+**Download link:** [x86_64](https://github.com/CharliiKo/WinMountExt4/releases/tag/stable)<br> 
 **License:** MIT License.
 
 ## GUI Version (Recommended)
 Now comes with a native C++ Qt-based GUI for easier operation.
 
 ### How to use
+#### Build yourself
 1. Install WSL2.
 2. Build the project using Qt Creator or `qmake` & `make`/`nmake`.
 3. Run `WinMountExt4.exe` (it will automatically request Administrator privileges).
+#### Prebuild package
+[Click here to download.](https://github.com/CharliiKo/WinMountExt4/releases/tag/stable)<br> 
 
 ## Batch Version
 1. Install WSL2.
